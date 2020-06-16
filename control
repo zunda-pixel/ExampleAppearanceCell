@@ -1,0 +1,9 @@
+Package: com.zunda.examplepreferences
+Name: ExampleAppearanceCell
+Depends: mobilesubstrate, preferenceloader, me.conorthedev.libappearancecell
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Example AppearanceCell!!
+Maintainer: zunda <zunda.pixel@gmail.com>
+Author: zunda <zunda.pixel@gmail.com>
+Section: Tweaks
